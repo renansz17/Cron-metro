@@ -1,0 +1,49 @@
+body{
+    background-color:#21145c;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    height:100%;
+}
+h1,h2{
+    font-size:2.6rem;
+}
+.cronometro{
+    display:flex;
+    justify-content: center;
+}
+.segundos ,.milesimos{
+    font-size:2rem;
+}
+.container{
+    width:500px;
+    margin:0 auto;
+    text-align:center;
+    color:#fdfde2;
+    font-weight:400;
+}
+.botaoComecar , .botaoParar , .botaoReiniciar{
+    background-color:transparent;
+    border: solid 1px white;
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+    font-size:1.2rem;
+    margin:10px;
+    text-decoration:none;
+    transition:ease-out 0.5s;
+    padding: 18px 10px;
+    width:180px;
+}
+
+
+.botaoComecar:hover{
+    transition: all 0.5s ease-in;
+    background-color:#c7c7c7;
+}
+.botaoParar:hover{
+    transition: all 0.5s ease-in;
+    background-color:#c7c7c7;
+}
+.botaoReiniciar:hover{
+    transition: all 0.5s ease-in;
+    background-color:#c7c7c7;
+}
