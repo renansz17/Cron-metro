@@ -3,4 +3,4 @@
 Cronômetro com base em javascript
 
 
-![Alt text](C:\Users\USER\Pictures\Wallpapers\cronometro.png "Cronômetro")
+Imagem do cronômetro => https://prnt.sc/1wnncb4
